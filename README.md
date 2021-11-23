@@ -1,4 +1,4 @@
-# webpack
+# spb-kassa.ru
 
 ## Project setup
 ```
